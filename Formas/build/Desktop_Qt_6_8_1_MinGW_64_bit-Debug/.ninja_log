@@ -1,0 +1,18 @@
+# ninja log v5
+4104	4377	7665965335471755	Formas.exe	54501627e2954df2
+317	3936	7665965331110792	CMakeFiles/Formas.dir/mainwindow.cpp.obj	8752ab4cce3513c8
+1423	6894	7665962636348612	CMakeFiles/Formas.dir/Formas_autogen/mocs_compilation.cpp.obj	ef3b95ee1aa332fc
+312	4103	7665965332796970	CMakeFiles/Formas.dir/main.cpp.obj	2dfcdeca92b8655
+47	291	7665965248043469	C:/Users/danza/OneDrive/Pictures/Documents/Formas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Formas_autogen/mocs_compilation.cpp	d8340ea7be0b6b6
+47	291	7665965248043469	C:/Users/danza/OneDrive/Pictures/Documents/Formas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Formas_autogen/timestamp	d8340ea7be0b6b6
+47	291	7665965248043469	Formas_autogen/mocs_compilation.cpp	d8340ea7be0b6b6
+323	4035	7665965332115986	CMakeFiles/Formas.dir/desenho.cpp.obj	9f78844622d88d26
+47	291	7665965248043469	Formas_autogen/timestamp	d8340ea7be0b6b6
+43	1247	7665966193735191	build.ninja	7507159745df4b7c
+51	300	7665966197236167	Formas_autogen/timestamp	d8340ea7be0b6b6
+51	300	7665966197236167	Formas_autogen/mocs_compilation.cpp	d8340ea7be0b6b6
+51	300	7665966197236167	C:/Users/danza/OneDrive/Pictures/Documents/Formas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Formas_autogen/timestamp	d8340ea7be0b6b6
+51	300	7665966197236167	C:/Users/danza/OneDrive/Pictures/Documents/Formas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Formas_autogen/mocs_compilation.cpp	d8340ea7be0b6b6
+307	4360	7665966238849184	CMakeFiles/Formas.dir/main.cpp.obj	2dfcdeca92b8655
+302	4416	7665966239404298	CMakeFiles/Formas.dir/Formas_autogen/mocs_compilation.cpp.obj	ef3b95ee1aa332fc
+4416	4720	7665966242379742	Formas.exe	867024986bbe5961

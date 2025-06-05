@@ -1,0 +1,9 @@
+C:/Users/danza/OneDrive/Pictures/Documents/Formas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/Formas.dir
+C:/Users/danza/OneDrive/Pictures/Documents/Formas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/danza/OneDrive/Pictures/Documents/Formas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/danza/OneDrive/Pictures/Documents/Formas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/danza/OneDrive/Pictures/Documents/Formas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/danza/OneDrive/Pictures/Documents/Formas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/danza/OneDrive/Pictures/Documents/Formas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/danza/OneDrive/Pictures/Documents/Formas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/Formas_autogen_timestamp_deps.dir
+C:/Users/danza/OneDrive/Pictures/Documents/Formas/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/Formas_autogen.dir
