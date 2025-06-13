@@ -13,6 +13,7 @@ Desenho::~Desenho()
 }
 
 void Desenho::paintEvent(QPaintEvent *event){
+    Q_UNUSED(event);
     QPainter painter(this);
     int x = 10;
     int y = 10 + incrementar;
