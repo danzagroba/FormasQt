@@ -10,9 +10,9 @@ QtApplication {
     ]
 
     files: [
-        "desenho.h",
         "main.cpp",
         "desenho.cpp",
+        "desenho.h",
     ]
 
     install: true
