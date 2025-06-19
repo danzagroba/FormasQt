@@ -26,8 +26,8 @@ void Desenho::paintEvent(QPaintEvent *event){
     painter.drawLine(x, y, x + 50, y);
     x += 100;
 
-    //Bola
-    painter.drawRect(x, y, 50, 60);
+    //Quadrado
+    painter.drawRect(x, y, 50, 50);
 }
 
 void Desenho::mover(){
