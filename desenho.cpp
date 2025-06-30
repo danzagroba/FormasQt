@@ -1,15 +1,17 @@
 #include "desenho.h"
 
-Desenho::Desenho(QWidget *qw)
-    : QWidget(qw), incrementar(0)
+Desenho::Desenho(QWidget *parent):
+    QWidget(parent),
+    incrementar(0),
+    ui(new Ui::Desenho)
 {
-    QPushButton *btnMover = new QPushButton("Mover", this);
-    btnMover->move(10, 150);
-    connect(btnMover, &QPushButton::clicked, this, &Desenho::mover);
+    ui->setupUi(this);
+
+    connect(ui->btnMover, &QPushButton::clicked, this, &Desenho::mover);
 }
 Desenho::~Desenho()
 {
-
+    delete ui;
 }
 
 void Desenho::paintEvent(QPaintEvent *event){
